@@ -87,10 +87,10 @@ AI를 활용한 분석은 아이디어 3 커뮤니티 서비스를 구현하기�
 
 ## 각 아이디어에 대한 기본 디자인
 1. 아이디어 1. 공원 추천 지도
-<img src="./img/slide1">
+<img src="./img/slide1.JPG"/>
 
 2. 아이디어 2. 이벤트 밀도 지도
-<img src="./img/slide2">
+<img src="./img/slide2.JPG"/>
 
 3. 아이디어 3. 공간 기반 커뮤니티
-<img src="./img/slide3">
+<img src="./img/slide3.JPG"/>
